@@ -5,7 +5,7 @@ Installation
 
 After executing these commands, we can reach our application by opening the URL http://127.0.0.1:5000/ at your browser.
 
-API
+API Instructions-
 
 1. Get list of players by team- 
   Navigate to http://127.0.0.1:5000/club/<name_of_team>.  
